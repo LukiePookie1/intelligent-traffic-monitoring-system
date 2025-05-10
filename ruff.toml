@@ -17,9 +17,6 @@ ignore = [
     "B008",
 ]
 
-fix = true
-preview = true
-
 [lint.isort]
 combine-as-imports = true
 known-first-party = ["intelligent-traffic-monitoring-system"]
